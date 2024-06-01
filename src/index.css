@@ -1,0 +1,12 @@
+.rhap_container{
+    background-color: #181818;
+    color: white;
+    position: absolute;
+    margin-left: -259px;
+    position: fixed;
+    bottom: 0px;
+}
+
+.rhap_time{
+    color: white;
+}

@@ -1,0 +1,43 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.play {
+    padding: 30px;
+    background-color: #121212;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+}
+
+
+.texts {
+    background-color: #121212;
+    color: white;
+    padding: 20px;
+    padding-left: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.texts h1 {
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 37.95px;
+    letter-spacing: -0.03em;
+    color: rgba(255, 255, 255, 1);
+}
+
+.texts h3 {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 20.24px;
+    letter-spacing: 0.08em;
+    color: rgba(173, 173, 173, 1);
+    cursor: pointer;
+}
